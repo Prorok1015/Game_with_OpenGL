@@ -1,1 +1,17 @@
-﻿  Project1.vcxproj -> C:\Users\Захар\source\repos\Project1\x64\Debug\Project1.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  glad.c
+  MainCam.cpp
+c:\users\захар\source\repos\project1\project1\maincam.cpp(7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\захар\source\repos\project1\project1\maincam.cpp(8): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Shader.cpp
+  Source.cpp
+c:\users\захар\source\repos\project1\project1\source.cpp(200): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\захар\source\repos\project1\project1\source.cpp(309): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\захар\source\repos\project1\project1\source.cpp(310): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\захар\source\repos\project1\project1\source.cpp(314): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\захар\source\repos\project1\project1\source.cpp(315): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\захар\source\repos\project1\project1\source.cpp(316): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\захар\source\repos\project1\project1\source.cpp(317): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Window.cpp
+  Создание кода...
+  Project1.vcxproj -> C:\Users\Захар\source\repos\Project1\x64\Debug\Game_with_OpenGL.exe
